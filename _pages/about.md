@@ -13,6 +13,8 @@ Biography
 ======
 I am a third-year PhD student in the [Electrical Engineering program](https://engineering.uci.edu/dept/eecs) at the University of California, Irvine, advised by Prof. [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/). I received my B.E. degree in Electrical Engineering from Northeastern University (China) in 2019, my M.Sc. degree in Electrical Engineering from University of Southern California in 2021. I was a visiting student at City University of Hong Kong supervised by Prof. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi?authuser=0).
 
+My research interests are in the areas of Federated Learning, Privacy-preserving machine learning, IoT and data privacy. 
+
 Education
 ======
 
