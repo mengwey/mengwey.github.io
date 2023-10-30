@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mengwei Yang's academic homepage"
+# title: "Welcome to Mengwei Yang's academic homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -36,14 +36,13 @@ Education
 Work Experience
 ======
 
-* 06/2020 - 01/2021: Data Science Internship
-  * Ericsson Inc.
-  * Research on keyword spotting with student-teacher framework.
-
 * 07/2022 - 09/2022: Engineering Intern
   * Syntiant Corp.
   * Research on secure federated learning with XGBoost.
 
+* 06/2020 - 01/2021: Data Science Internship
+  * Ericsson Inc.
+  * Research on keyword spotting with student-teacher framework.
 
 <!-- Preprints
 ====== -->
