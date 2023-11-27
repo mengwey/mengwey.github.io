@@ -89,7 +89,7 @@ Work Experience
 Publications (* means equal contributions)
 ============
 
-Chu, Tianyue\*, **Yang, Mengwei**\*, Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
+Chu, Tianyue\*, **Yang, Mengwei**\*, and Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
 
 Bakopoulou, Evita\*, **Yang, Mengwei**\*, and Zhang, Jiang and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://arxiv.org/pdf/2112.03452.pdf).", accepted in IEEE Transactions on Mobile Computing, Oct. 2023
 
