@@ -54,17 +54,17 @@ mance.
   * ProposedafederatedKDEframeworkforestimatingtheuserpopulationdensity,whichnotonlykeptusers’ data local, but also protected against a malicious server that tries to infer users’ locations.
   * Our proposed federated Random Fourier feature (RFF) KDE leveraged a random feature representation of the KDE solution, in which each user’s information was irreversibly projected onto a small number of spatially delocalized basis functions.
 
-  * Location Leakage in Federated Signal Maps, 2021.11 – 2022.04.
+* Location Leakage in Federated Signal Maps, 2021.11 – 2022.04.
   * Advisor: Prof. Athina Markopoulou (University of California Irvine).
   * launched the gradients leakage attack (DLG attack) on signal map prediction tasks and successfully recon- structed the average location of users’ private spatiotemporal dataset during the federated training process.
   * Proposed a defense approach that selects local batches so that the inferred location is far from the true average location, thus misleading the DLG attacker. Explored the tradeoff between utility in federated
 signal map task and privacy in protecting clients’ data.
 
-  * SaferQ: Obfuscating Search Queries via Generative Adversarial Privacy, 2020.03 – 2020.05.
+* SaferQ: Obfuscating Search Queries via Generative Adversarial Privacy, 2020.03 – 2020.05.
   * Advisor: Prof. Keith Chugg (University of Southern California).
   * Our proposed SaferQ extended the existing Generative Adversarial Privacy framework for sequence gen- eration problems. Deployed between browser and query log databases. Query logs will be obfuscated by SaferQ based on our desired privacy and utility tradeoff ratio.
 
-  * Secure Federated XGBoost Framework, 2018.09 – 2019.08.
+* Secure Federated XGBoost Framework, 2018.09 – 2019.08.
   * Advisor: Prof. Linqi Song (City University of Hong Kong).
   * Our proposed secure federated XGBoost algorithm incorporated data aggregation and sparse federated up-
 date processes to balance the tradeoff between privacy and learning performance.
@@ -89,7 +89,9 @@ Work Experience
 Publications (* means equal contributions)
 ============
 
-Bakopoulou, Evita and Zhang, Jiang and **Yang, Mengwei** and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://arxiv.org/pdf/2112.03452.pdf).", accepted in IEEE Transactions on Mobile Computing, Oct. 2023
+Chu, Tianyue\*, **Yang, Mengwei**\*, Laoutaris, Nikolaos, Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
+
+Bakopoulou, Evita\*, **Yang, Mengwei**\*, Zhang, Jiang and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://arxiv.org/pdf/2112.03452.pdf).", accepted in IEEE Transactions on Mobile Computing, Oct. 2023
 
 Zong, Zixiao and **Yang, Mengwei** and Ley, Justin and Butts, Carter T and Markopoulou, Athina, "[Privacy by projection: Federated population density estimation by projecting on random features](https://petsymposium.org/popets/2023/popets-2023-0019.pdf).", in Proceedings of Privacy Enhancing Technologies (PoPETs), 2023(1), Lausanne, Switzerland, July 2023.
 
