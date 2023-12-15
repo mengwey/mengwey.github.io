@@ -77,11 +77,11 @@ Work Experience
 
 * 07/2022 - 09/2022: Engineering Intern
   * Syntiant Corp.
-  * Research on secure federated learning with XGBoost.
-
+  * Research on keyword spotting with student-teacher framework.
+  
 * 06/2020 - 01/2021: Data Science Internship
   * Ericsson Inc.
-  * Research on keyword spotting with student-teacher framework.
+  * Research on secure federated learning with XGBoost.
 
 <!-- Preprints
 ====== -->
