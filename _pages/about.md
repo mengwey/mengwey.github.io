@@ -51,7 +51,7 @@ mance.
 
 * Privacy by Projection: Federated Population Density Estimation by Projecting on Random Features, 2021.12 – 2022.07.
   * Advisor: Prof. Athina Markopoulou (University of California Irvine).
-  * ProposedafederatedKDEframeworkforestimatingtheuserpopulationdensity,whichnotonlykeptusers’ data local, but also protected against a malicious server that tries to infer users’ locations.
+  * Proposed a federated KDE framework for estimating the user population density,which not only kept users’ data local, but also protected against a malicious server that tries to infer users’ locations.
   * Our proposed federated Random Fourier feature (RFF) KDE leveraged a random feature representation of the KDE solution, in which each user’s information was irreversibly projected onto a small number of spatially delocalized basis functions.
 
 * Location Leakage in Federated Signal Maps, 2021.11 – 2022.04.
