@@ -33,7 +33,7 @@ Education
   * Major: Electronic Information Engineering
   * GPA: 93/100
 
-Research Experience
+<!-- Research Experience
 ======
 
 * PriPrune: Quantifying and Preserving Privacy in Pruned FL, 2022.11 – 2023.8.
@@ -81,7 +81,7 @@ Work Experience
   
 * 06/2020 - 01/2021: Data Science Internship
   * Ericsson Inc.
-  * Research on secure federated learning with XGBoost.
+  * Research on secure federated learning with XGBoost. -->
 
 <!-- Preprints
 ====== -->
