@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mengwei Yang's academic homepage"
+title: "Mengwei Yang's Academic Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
