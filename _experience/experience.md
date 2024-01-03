@@ -14,11 +14,11 @@ permalink: /experience/experience
 ---------------------
 
 * 07/2022 - 09/2022: Engineering Intern
-  * Syntiant Corp.
+  * **Syntiant Corp.**
   * Research on keyword spotting with student-teacher framework.
   
 * 06/2020 - 01/2021: Data Science Internship
-  * Ericsson Inc.
+  * **Ericsson Inc.**
   * Research on secure federated learning with XGBoost.
 
 **Research Experience**
