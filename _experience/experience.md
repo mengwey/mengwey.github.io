@@ -9,8 +9,9 @@ permalink: /experience/experience
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Work Experience
-======
+
+**Work Experience**
+---------------------
 
 * 07/2022 - 09/2022: Engineering Intern
   * Syntiant Corp.
@@ -20,8 +21,8 @@ Work Experience
   * Ericsson Inc.
   * Research on secure federated learning with XGBoost.
 
-Research Experience
-======
+**Research Experience**
+---------------------
 
 * PriPrune: Quantifying and Preserving Privacy in Pruned FL, 2022.11 – 2023.8.
   * Advisor: Prof. Athina Markopoulou (University of California Irvine).
