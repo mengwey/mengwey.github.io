@@ -18,17 +18,17 @@ My research interests are in the areas of Federated Learning, Privacy-preserving
 Education
 ======
 
-* University of California, Irvine, 09/2021-Present
+* **University of California, Irvine, 09/2021 - Present**
   * Degree: PhD
   * Major: Electrical Engineering
   * GPA: 4.0/4.0
 
-* University of Southern California, 08/2019-05/2021
+* **University of Southern California, 08/2019 - 05/2021**
   * Degree: Master
   * Major: Electrical Engineering
   * GPA: 3.71/4.0
 
-* Northeastern University (China), 09/2015-06/2019
+* **Northeastern University (China), 09/2015 - 06/2019**
   * Degree: Bachelor
   * Major: Electronic Information Engineering
   * GPA: 93/100
