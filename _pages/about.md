@@ -86,7 +86,7 @@ Work Experience
 <!-- Preprints
 ====== -->
 
-Publications (* means equal contributions)
+Publications
 ============
 
 Chu, Tianyue\*, **Yang, Mengwei**\*, and Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
@@ -97,6 +97,7 @@ Zong, Zixiao and **Yang, Mengwei** and Ley, Justin and Butts, Carter T and Marko
 
 **Yang, Mengwei** and Song, Linqi and Xu, Jie and Li, Congduan and Tan, Guozhen, "[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)", accepted and to appear in IJCAI Workshop: 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (IJCAI-FL 2019).
 
+(* means equal contributions)
 
 <!-- Create content & metadata
 ------
