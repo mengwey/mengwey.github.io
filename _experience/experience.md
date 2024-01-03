@@ -9,6 +9,17 @@ permalink: /experience/experience
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
+Work Experience
+======
+
+* 07/2022 - 09/2022: Engineering Intern
+  * Syntiant Corp.
+  * Research on keyword spotting with student-teacher framework.
+  
+* 06/2020 - 01/2021: Data Science Internship
+  * Ericsson Inc.
+  * Research on secure federated learning with XGBoost.
+
 Research Experience
 ======
 
@@ -47,14 +58,3 @@ date processes to balance the tradeoff between privacy and learning performance.
   * Based on the characteristics of split finding in XGBoost, we introduced the anonymous virtual data cluster
 in the data aggregation process and thus hided a specific user’s gradients under the anonymous cluster.
 
-
-Work Experience
-======
-
-* 07/2022 - 09/2022: Engineering Intern
-  * Syntiant Corp.
-  * Research on keyword spotting with student-teacher framework.
-  
-* 06/2020 - 01/2021: Data Science Internship
-  * Ericsson Inc.
-  * Research on secure federated learning with XGBoost.
