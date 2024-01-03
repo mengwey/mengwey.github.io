@@ -10,8 +10,8 @@ permalink: /publication/publication
 ---
 
 
-Publications
-============
+<!-- Publications
+============ -->
 
 Chu, Tianyue\*, **Yang, Mengwei**\*, and Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
 
