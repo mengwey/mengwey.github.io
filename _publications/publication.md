@@ -13,6 +13,8 @@ permalink: /publication/publication
 <!-- Publications
 ============ -->
 
+Mengwei Yang, Ismat Jarin, Baturalp Buyukates, Salman Avestimehr, Athina Markopoulou, “[Maverick-Aware Shapley Valuation for Client Selection in Federated Learning](https://arxiv.org/pdf/2405.12590)”, poster in ISIT workshop on “Informational Theoretic methods for Trustworthy ML” (IT-TML), July 7th 2024, Athens, Greece.
+
 Chu, Tianyue\*, **Yang, Mengwei**\*, and Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, arXiv preprint arXiv:2310.19958 (2023), under review.
 
 Bakopoulou, Evita\*, **Yang, Mengwei**\*, and Zhang, Jiang and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://ieeexplore.ieee.org/abstract/document/10315165).", accepted in IEEE Transactions on Mobile Computing, Oct. 2023
