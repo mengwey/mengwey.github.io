@@ -13,9 +13,11 @@ permalink: /publication/publication
 <!-- Publications
 ============ -->
 
-Chu, Tianyue\*, **Yang, Mengwei**\*, and Laoutaris, Nikolaos, and Markopoulou, Athina. “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, accepted to Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Oct 2024
+Chu, Tianyue\*, **Yang, Mengwei**\*, Laoutaris, Nikolaos, and Markopoulou, Athina, “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://arxiv.org/pdf/2310.19958.pdf)”, accepted to Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), Oct 2024
 
-**Mengwei Yang**, Ismat Jarin, Baturalp Buyukates, Salman Avestimehr, Athina Markopoulou, “[Maverick-Aware Shapley Valuation for Client Selection in Federated Learning](https://arxiv.org/pdf/2405.12590)”, poster in ISIT workshop on “Informational Theoretic methods for Trustworthy ML” (IT-TML), July 7th 2024, Athens, Greece.
+**Yang, Mengwei**, Jarin, Ismat, Buyukates, Baturalp, Avestimehr, Salman, Markopoulou, Athina, “[Maverick-Aware Shapley Valuation for Client Selection in Federated Learning](https://arxiv.org/pdf/2405.12590)”, poster in ISIT workshop on “Informational Theoretic methods for Trustworthy ML” (IT-TML), July 7th 2024, Athens, Greece.
+
+Chu, Tianyue, **Yang, Mengwei**, Laoutaris, Nikolaos, and Markopoulou, Athina, “Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning”, poster and presentation, ISIT workshop on “[Informational Theoretic methods for Trustworthy ML” (IT-TML)](https://sites.google.com/view/it-tml2024/call-for-papers?authuser=0&pli=1), July 7th 2024, Athens, Greece
 
 Bakopoulou, Evita\*, **Yang, Mengwei**\*, and Zhang, Jiang and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://ieeexplore.ieee.org/abstract/document/10315165).", in IEEE Transactions on Mobile Computing, Jun. 2024, pp. 6936-6953, vol. 23.
 
