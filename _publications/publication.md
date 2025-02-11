@@ -23,6 +23,6 @@ Bakopoulou, Evita\*, **Yang, Mengwei**\*, and Zhang, Jiang and Psounis, Konstant
 
 Zong, Zixiao and **Yang, Mengwei** and Ley, Justin and Butts, Carter T and Markopoulou, Athina, "[Privacy by projection: Federated population density estimation by projecting on random features](https://petsymposium.org/popets/2023/popets-2023-0019.pdf).", in Proceedings of Privacy Enhancing Technologies (PoPETs), 2023(1), Lausanne, Switzerland, July 2023.
 
-**Yang, Mengwei** and Song, Linqi and Xu, Jie and Li, Congduan and Tan, Guozhen, "[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)", accepted and to appear in IJCAI Workshop: 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (IJCAI-FL 2019).
+**Yang, Mengwei** and Song, Linqi and Xu, Jie and Li, Congduan and Tan, Guozhen, "[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)", accepted and to appear in IJCAI Workshop: [International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (IJCAI-FL 2019)](https://federated-learning.org/fl-ijcai-2019/).
 
 (* means equal contributions)
