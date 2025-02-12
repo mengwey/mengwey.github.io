@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mengwei Yang / Academic Page"
+title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "Mengwei Yang"
-description              : &description "PhD student at University of California, Irvine"
+description              : &description "Mengwei Yang, PhD student at University of California, Irvine, researcher in AI and machine learning. Check out my projects and publications."
 url                      : https://mengwey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengwey/mengwey.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengwei Yang"
   avatar           : "mwy.jpeg"
-  bio              : "EE PhD student at University of California, Irvine"
+  bio              : "PhD candidate at University of California, Irvine"
   location         : "Irvine, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -273,6 +273,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -280,6 +281,7 @@ plugins:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
