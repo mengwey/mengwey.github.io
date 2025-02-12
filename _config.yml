@@ -191,6 +191,15 @@ kramdown:
 #     output: true
 #     permalink: /:collection/:path/
 
+Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  experience:
+    output: true
+    permalink: /:collection/:path/
+
 # Collections
 # collections:
 #   aboutme:
@@ -226,24 +235,24 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # # _experience
-  # - scope:
-  #     path: ""
-  #     type: experience
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # # _portfolio
   # - scope:
   #     path: ""
