@@ -3,7 +3,6 @@ permalink: /
 title: "Mengwei Yang's Academic Homepage"
 excerpt: "About me"
 author_profile: true
-collection: aboutme
 redirect_from: 
   - /about/
   - /about.html
