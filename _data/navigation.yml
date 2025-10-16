@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /experience/experience
+  # - title: "Experience"
+  #   url: /experience/experience
 
-  - title: "Publications"
-    url: /publication/publication
+  # - title: "Publications"
+  #   url: /publication/publication
 
   # - title: "Talks"
   #   url: /talks/    
@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://drive.google.com/file/d/1bmBq_2cPUgvzunfcWfEZYtJAPDPuYspy/view?usp=sharing
+  # - title: "CV"
+  #   url: https://drive.google.com/file/d/1bmBq_2cPUgvzunfcWfEZYtJAPDPuYspy/view?usp=sharing
     
   # - title: "Guide"
   #   url: /markdown/
