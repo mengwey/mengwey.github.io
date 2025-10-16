@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Mengwei Yang's Academic Homepage"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-Biography
-======
+<!-- Biography
+------ -->
 I am a PhD candidate in the [Electrical Engineering program](https://engineering.uci.edu/dept/eecs) at the University of California, Irvine, advised by Prof. [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/). I received my B.E. degree in Electrical Engineering from Northeastern University (China) in 2019, my M.Sc. degree in Electrical Engineering from University of Southern California in 2021. I was a visiting student at City University of Hong Kong in 2018, supervised by Prof. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi?authuser=0).
 
 My research interests are in the areas of agentic AI, privacy-preserving machine learning, federated learning, data valuation and model efficiency.
@@ -126,20 +126,17 @@ Experience
 **Work Experience**
 ---------------------
 
-* 07/2022 - 09/2022: Engineering Intern
-  * **Syntiant Corp.**
+* **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
   * Developed a confidence-aware, multi-teacher knowledge distillation framework for keyword spotting tasks, leveraging the student-teacher architecture.
   * Used pre-trained transformer models to enhance student model performance effectively.
   * Location: Irvine, California
   
-* 06/2020 - 01/2021: Data Science Intern
-  * **Ericsson Inc.**
+* **Ericsson Inc.** — Data Science Intern (2020.6 – 2021.1)
   * Built a secure federated XGBoost framework with an innovative secure quantile sketch and practical secure aggregation.
   * Implemented pairwise masking of model parameters to protect against gradient leakage attacks during aggregation, strengthening client data privacy.
   * Location: Santa Clara, California
 
-* Winter and Spring 2024, Winter and Spring 2025: Teaching Assistant
-  * **UC Irvine EECS Department.**
+* **UC Irvine EECS Department** — Teaching Assistant (Winter and Spring 2024; Winter and Spring 2025)
   * Taught the lab sessions of EECS 31L: Introduction to Digital Logic Lab, guiding students through Verilog module design and debugging.
   * Location: Irvine, California
 
