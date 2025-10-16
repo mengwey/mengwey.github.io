@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Page"
+title                    : "Mengwei Yang | Academic Page"
 title_separator          : "-"
 name                     : &name "Mengwei Yang"
 description              : &description "Mengwei Yang, PhD student at University of California, Irvine, researcher in AI and machine learning. Check out my projects and publications."
