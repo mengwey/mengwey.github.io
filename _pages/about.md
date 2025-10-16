@@ -187,7 +187,7 @@ Experience
 
 Publications
 ======
-(* means equal contributions)
+(* denotes equal contributions)
 
 **Yang, Mengwei**, Buyukates, Baturalp, and Shen, Yanning, and Markopoulou, Athina, “Valuing Solo and Synergy in Federated Learning“, Under submission.
 
