@@ -118,6 +118,11 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+Curriculum Vitae
+======
+
+* [Download CV](https://drive.google.com/file/d/1jpXVu7VZ2YXTrlZOJWg1Fz1rY2lo2xqp/view?usp=share_link) (Google Drive)
+
 
 
 Experience
