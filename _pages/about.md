@@ -145,21 +145,21 @@ Research Highlights
 *AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
 
 <a href="/images/retalk-overview.png" target="_blank">
-![Research Overview](/images/retalk-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/retalk-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 ## LLM-Powered Voice Assistant with Voice Cloning
 *Interactive voice assistant leveraging LLMs for natural conversations with personalized synthetic voice.*
 
 <a href="/images/llm-assistant-overview.png" target="_blank">
-![Research Overview](/images/llm-assistant-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/llm-assistant-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 ## Valuing Solo and Synergy in Federated Learning
 *DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
 
 <a href="/images/duoshapley-overview.png" target="_blank">
-![Research Overview](/images/duoshapley-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/duoshapley-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 📄 Under Submission
@@ -168,7 +168,7 @@ Research Highlights
 *Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
 
 <a href="/images/maverick-shapley-overview.png" target="_blank">
-![Research Overview](/images/maverick-shapley-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/maverick-shapley-overview.png){: width="450" height="270" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 [📄 Read Paper](https://arxiv.org/pdf/2405.12590)
@@ -177,7 +177,7 @@ Research Highlights
 *Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
 
 <a href="/images/priprune-overview.png" target="_blank">
-![Research Overview](/images/priprune-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/priprune-overview.png){: width="450" height="270" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 [📄 Read Paper](https://doi.org/10.1145/3702241)
@@ -186,7 +186,7 @@ Research Highlights
 *Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
 
 <a href="/images/location-leakage-overview.png" target="_blank">
-![Research Overview](/images/location-leakage-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/location-leakage-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
 [📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw)
