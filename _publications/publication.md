@@ -1,7 +1,7 @@
 ---
 # title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/publication
+permalink: /publications/publication
 # excerpt: "" 
 # date: 2015-10-01
 # venue: 'Journal 1'

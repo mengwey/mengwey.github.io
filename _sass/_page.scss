@@ -21,15 +21,21 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+    margin-top: 0;
+    padding-top: 0;
   }
 
   .page__inner-wrap {
     @include full();
+    margin-top: 0;
+    padding-top: 0;
 
     .page__content,
     .page__meta,
     .page__share {
       @include full();
+      margin-top: 0;
+      padding-top: 0;
     }
   }
 }
@@ -50,11 +56,13 @@
 
 .page__content {
   margin-top: 0;
+  padding-top: 0;
 
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
     margin-top: 0;
+    margin-bottom: 0.5em;
   }
 
   p, li, dl {
