@@ -155,41 +155,33 @@ Research Highlights
 ![Research Overview](/images/llm-assistant-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
-## Valuing Solo and Synergy in Federated Learning
+## Valuing Solo and Synergy in Federated Learning (Under Submission)
 *DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
 
 <a href="/images/duoshapley-overview.png" target="_blank">
 ![Research Overview](/images/duoshapley-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
-📄 Under Submission
-
-## Maverick-Aware Shapley Valuation for Client Selection in FL
+## Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://arxiv.org/pdf/2405.12590))
 *Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
 
 <a href="/images/maverick-shapley-overview.png" target="_blank">
-![Research Overview](/images/maverick-shapley-overview.png){: width="450" height="270" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/maverick-shapley-overview.png){: width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
-[📄 Read Paper](https://arxiv.org/pdf/2405.12590)
-
-## PriPrune: Quantifying and Preserving Privacy in Pruned FL
+## PriPrune: Quantifying and Preserving Privacy in Pruned FL ([📄 Read Paper](https://doi.org/10.1145/3702241))
 *Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
 
 <a href="/images/priprune-overview.png" target="_blank">
-![Research Overview](/images/priprune-overview.png){: width="450" height="270" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+![Research Overview](/images/priprune-overview.png){: width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
-[📄 Read Paper](https://doi.org/10.1145/3702241)
-
-## Location Leakage in Federated Signal Maps
+## Location Leakage in Federated Signal Maps ([📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw))
 *Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
 
 <a href="/images/location-leakage-overview.png" target="_blank">
 ![Research Overview](/images/location-leakage-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
-
-[📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw)
 
 For detailed research experience and complete publication list, please visit the [Experience](/experience/experience) and [Publications](/publications/) pages.
 
