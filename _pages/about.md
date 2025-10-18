@@ -124,12 +124,12 @@ Curriculum Vitae
 
 * [Download CV](https://drive.google.com/file/d/1jpXVu7VZ2YXTrlZOJWg1Fz1rY2lo2xqp/view?usp=share_link) (Google Drive)
 
-<div style="margin-bottom: 0.9em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 Work Experience
 ======
 
-<div style="margin-bottom: 0.9em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 * ![Company Logo](/images/syntiant.jpg){: width="40" height="40" style="vertical-align: middle; margin-right: 10px;"} **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
 
@@ -139,12 +139,12 @@ Work Experience
 
 For detailed Work experience, please visit the [Experience](/experience/experience)
 
-<div style="margin-bottom: 0.9em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 Research Highlights
 ======
 
-<div style="margin-bottom: 0.9em;"></div>
+<div style="margin-bottom: 1.5em;"></div>
 
 ## ReTalk Agent: Multilingual Video Dubbing
 *AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
