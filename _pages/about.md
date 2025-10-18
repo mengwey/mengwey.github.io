@@ -124,7 +124,7 @@ Curriculum Vitae
 
 * [Download CV](https://drive.google.com/file/d/1jpXVu7VZ2YXTrlZOJWg1Fz1rY2lo2xqp/view?usp=share_link) (Google Drive)
 
-
+<br>
 
 Work Experience
 ======
@@ -137,6 +137,7 @@ Work Experience
 
 For detailed Work experience, please visit the [Experience](/experience/experience)
 
+<br>
 
 Research Highlights
 ======
