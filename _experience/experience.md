@@ -9,6 +9,8 @@ classes: wide
 **Work Experience**
 ---------------------
 
+<div style="margin-bottom: 0.9em;"></div>
+
 * **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
   * Developed a confidence-aware, multi-teacher knowledge distillation framework for keyword spotting tasks, leveraging the student-teacher architecture.
   * Used pre-trained transformer models to enhance student model performance effectively.
@@ -25,6 +27,8 @@ classes: wide
 
 **Research Experience**
 ---------------------
+
+<div style="margin-bottom: 0.9em;"></div>
 
 * **ReTalk Agent: Multilingual Video Dubbing**, 2025.8 – 2025.10.
   * Developed an AI agent pipeline that transforms input videos into multilingual versions by leveraging LLM-based language processing while preserving the speaker's unique voice identity.
