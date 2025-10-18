@@ -1,8 +1,9 @@
 ---
 layout: archive
-# title: "Research Experience"
+title: "Experience"
 permalink: /experience/experience
 author_profile: true
+classes: wide
 ---
 
 **Work Experience**

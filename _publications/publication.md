@@ -2,6 +2,7 @@
 # title: "Paper Title Number 3"
 collection: publications
 permalink: /publications/publication
+classes: wide
 # excerpt: "" 
 # date: 2015-10-01
 # venue: 'Journal 1'
@@ -10,8 +11,8 @@ permalink: /publications/publication
 ---
 
 
-<!-- Publications
-====== -->
+Publications
+======
 (* denotes equal contributions)
 
 **Yang, Mengwei**, Buyukates, Baturalp, and Shen, Yanning, and Markopoulou, Athina, "Valuing Solo and Synergy in Federated Learning", Under submission.
