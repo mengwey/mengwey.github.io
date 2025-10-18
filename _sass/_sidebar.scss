@@ -134,7 +134,7 @@
   content: "";
   display: block;
   width: 60px;
-  height: 2px;
+  height: 3px;
   background-color: #6B8E23; /* Olive green */
   margin-top: 15px;
   margin-bottom: 15px;
@@ -239,11 +239,35 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
-    border-bottom: 2px solid #6B8E23; /* Olive green underline */
+    position: relative;
 
     &:hover {
       text-decoration: none;
-      border-bottom-color: #556B2F; /* Darker olive green on hover */
+    }
+
+    /* Create underline that starts after the icon */
+    &:after {
+      content: "";
+      position: absolute;
+      bottom: 2px;
+      left: 24px; /* Start after the icon (16px icon + 8px margin) */
+      right: 0;
+      height: 3px;
+      background: #6B8E23; /* Olive green underline */
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.3s ease;
+    }
+
+    &:hover:after {
+      transform: scaleX(1);
+    }
+
+    /* Style the icon */
+    i {
+      margin-right: 8px;
+      width: 16px;
+      display: inline-block;
     }
   }
 }
