@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Biography
 ------ -->
-I am a PhD candidate in the [Electrical Engineering program](https://engineering.uci.edu/dept/eecs) at the University of California, Irvine, advised by Prof. [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/). I received my B.E. degree in Electrical Engineering from Northeastern University (China) in 2019, my M.Sc. degree in Electrical Engineering from University of Southern California in 2021. I was a visiting student at City University of Hong Kong in 2018, supervised by Prof. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi?authuser=0).
+I am a PhD candidate in the department of [Electrical Engineering](https://engineering.uci.edu/dept/eecs) at the [University of California, Irvine](https://uci.edu), advised by Prof. [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/). I received my B.E. degree in Electrical Engineering from Northeastern University (China) in 2019, my M.Sc. degree in Electrical Engineering from University of Southern California in 2021. I was a visiting student at City University of Hong Kong in 2018, supervised by Prof. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi?authuser=0).
 
 My research interests are in the areas of agentic AI, privacy-preserving machine learning, federated learning, data valuation and model efficiency.
 
@@ -126,88 +126,69 @@ Curriculum Vitae
 
 
 
-Experience
+Work Experience
 ======
 
-**Work Experience**
----------------------
+* ![Company Logo](/images/syntiant.jpg){: width="40" height="40" style="vertical-align: middle; margin-right: 10px;"} **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
 
-* **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
-  * Developed a confidence-aware, multi-teacher knowledge distillation framework for keyword spotting tasks, leveraging the student-teacher architecture.
-  * Used pre-trained transformer models to enhance student model performance effectively.
-  * Location: Irvine, California
-  
-* **Ericsson Inc.** — Data Science Intern (2020.6 – 2021.1)
-  * Built a secure federated XGBoost framework with an innovative secure quantile sketch and practical secure aggregation.
-  * Implemented pairwise masking of model parameters to protect against gradient leakage attacks during aggregation, strengthening client data privacy.
-  * Location: Santa Clara, California
+* ![Company Logo](/images/Ericsson_logo.png){: width="40" height="40" style="vertical-align: middle; margin-right: 10px;"} **Ericsson Inc.** — Data Science Intern (2020.6 – 2021.1)
 
-* **UC Irvine EECS Department** — Teaching Assistant (Winter and Spring 2024; Winter and Spring 2025)
-  * Taught the lab sessions of EECS 31L: Introduction to Digital Logic Lab, guiding students through Verilog module design and debugging.
-  * Location: Irvine, California
+* ![Company Logo](/images/UCI.png){: width="40" height="40" style="vertical-align: middle; margin-right: 10px;"} **UC Irvine EECS Department** — Teaching Assistant (Winter and Spring 2024; Winter and Spring 2025)
 
-**Research Experience**
----------------------
+For detailed Work experience, please visit the [Experience](/experience/experience)
 
-* **ReTalk Agent: Multilingual Video Dubbing**, 2025.8 – 2025.10.
-  * Developed an AI agent pipeline that transforms input videos into multilingual versions by leveraging LLM-based language processing while preserving the speaker’s unique voice identity.
-  * Implemented lip-synchronization and voice cloning techniques to ensure natural alignment of facial movements with translated speech, producing high-quality, culturally adaptive video outputs.
-
-* **LLM-Powered Voice Assistant with Voice Cloning**, 2025.6 – 2025.8.
-  * Designed and implemented an interactive voice assistant leveraging large language models (LLMs) as the core reasoning engine, enabling natural, context-aware conversations with users.
-  * Integrated voice cloning technology to generate a personalized synthetic voice, allowing seamless spoken interaction and enhancing user engagement in real-time dialogue.
-
-* **Valuing Solo and Synergy in Federated Learning**, 2024.10 – 2025.7.
-  * Proposed DuoShapley, an efficient Shapley value approximation that adaptively balances individual (Solo) and collaborative (Leave-One-Out) user contributions to improve valuation efficiency across heterogeneous federated learning settings.
-  * Demonstrated that DuoShapley achieves over 200× speedup and higher robustness with noisy users, enabling scalable and reliable client selection for large-scale federated learning.
-
-* **Maverick-Aware Shapley Valuation for Client Selection in FL**, 2023.10 – 2024.9.
-  * Designed a Maverick-aware Shapley valuation framework to quantify client contributions under data heterogeneity, addressing undervaluation of clients with rare or underrepresented classes.
-  * Developed FedMS, a Shapley-guided client selection mechanism that adaptively prioritizes high-value clients, improving global performance and robustness against adversaries and free-riders.
-
-* **PriPrune: Quantifying and Preserving Privacy in Pruned FL**, 2022.11 - 2023.8.
-  * Conducted research on privacy guarantees for model pruning in FL, deriving information-theoretic upper bounds on information leakage in pruned models.
-  * Developed PriPrune – a privacy-aware pruning algorithm with personalized, per-client defense masks and adaptive pruning rates, balancing privacy and model performance.
-
-* **Information Leakage in Personalized Federated Learning**, 2022.4 – 2022.6.
-  * Executed the gradient leakage attack (DLG) in personalized FL, demonstrating how personalization levels impact vulnerability.
-  * Proposed PerFed-LDP, a per-example differential privacy method for personalized FL, analyzing privacy-utility tradeoff under DP settings.
-
-* **Privacy by Projection: Federated Population Density Estimation**, 2021.12 – 2022.7.
-  * Designed a federated kernel density estimation (KDE) framework to estimate population density while ensuring data remains local.
-  * Developed a federated Random Fourier Feature (RFF) KDE approach projecting user info onto spatially delocalized basis functions, enhancing privacy without hurting accuracy.
-
-* **Location Leakage in Federated Signal Maps**, 2021.11 – 2022.4.
-  * Executed gradient leakage attacks on federated signal map prediction, reconstructing average locations from private spatio-temporal datasets.
-  * Proposed batch selection defenses to obfuscate true location, balancing utility in mapping with privacy protection.
-
-* **SaferQ: Obfuscating Search Queries via Generative Adversarial Privacy**, 2020.3 – 2020.5.
-  * Developed SaferQ, extending the GAP framework for sequence generation to obfuscate search queries while balancing privacy and utility.
-
-* **Secure Federated XGBoost Framework**, 2018.9 – 2019.8.
-  * Designed a secure federated XGBoost framework incorporating anonymized data aggregation to balance privacy and performance.
-
-
-Publications
+Research Highlights
 ======
-(* denotes equal contributions)
 
-**Yang, Mengwei**, Buyukates, Baturalp, and Shen, Yanning, and Markopoulou, Athina, “Valuing Solo and Synergy in Federated Learning“, Under submission.
+## ReTalk Agent: Multilingual Video Dubbing
+*AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
 
-**Yang, Mengwei**, Buyukates, Baturalp, and Markopoulou, Athina, “Rewarding the Rare: Maverick-Aware Shapley Valuation in Federated Learning“, Under submission.
+<a href="/images/retalk-overview.png" target="_blank">
+![Research Overview](/images/retalk-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
 
-Chu, Tianyue\*, **Yang, Mengwei**\*, Laoutaris, Nikolaos, and Markopoulou, Athina, “[PriPrune: Quantifying and Preserving Privacy in Pruned Federated Learning](https://doi.org/10.1145/3702241)”, accepted to Transactions on Modeling and Performance Evaluation of Computing Systems (ToMPECS), October 2024.
+## LLM-Powered Voice Assistant with Voice Cloning
+*Interactive voice assistant leveraging LLMs for natural conversations with personalized synthetic voice.*
 
-**Yang, Mengwei**, Jarin, Ismat, Buyukates, Baturalp, Avestimehr, Salman, Markopoulou, Athina, “[Maverick-Aware Shapley Valuation for Client Selection in Federated Learning](https://arxiv.org/pdf/2405.12590)”, poster in ISIT workshop on “[Informational Theoretic methods for Trustworthy ML” (IT-TML)](https://sites.google.com/view/it-tml2024/schedule?authuser=0), July 7th 2024, Athens, Greece.
+<a href="/images/llm-assistant-overview.png" target="_blank">
+![Research Overview](/images/llm-assistant-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
 
+## Valuing Solo and Synergy in Federated Learning
+*DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
 
-Chu, Tianyue, **Yang, Mengwei**, Laoutaris, Nikolaos, and Markopoulou, Athina, “Information-Theoretical Bounds on Privacy Leakage in Pruned Federated Learning”, poster and presentation, ISIT workshop on “[Informational Theoretic methods for Trustworthy ML” (IT-TML)](https://sites.google.com/view/it-tml2024/schedule?authuser=0), July 7th 2024, Athens, Greece
+<a href="/images/duoshapley-overview.png" target="_blank">
+![Research Overview](/images/duoshapley-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
 
-Bakopoulou, Evita\*, **Yang, Mengwei**\*, and Zhang, Jiang and Psounis, Konstantinos and Markopoulou, Athina, "[Location leakage in federated signal maps](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw).", in IEEE Transactions on Mobile Computing, vol. 23, no. 06, pp. 6936-6953, June 2024.
+📄 Under Submission
 
-Zong, Zixiao and **Yang, Mengwei** and Ley, Justin and Butts, Carter T and Markopoulou, Athina, "[Privacy by projection: Federated population density estimation by projecting on random features](https://petsymposium.org/popets/2023/popets-2023-0019.pdf).", in Proceedings on Privacy Enhancing Technologies (PoPETs), 2023(1), Lausanne, Switzerland, July 2023.
+## Maverick-Aware Shapley Valuation for Client Selection in FL
+*Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
 
-**Yang, Mengwei** and Liu, Shuqi, Xu, Jie, Tan, Guozhen, Li, Congduan, and Song, Linqi. "[Achieving privacy-preserving cross-silo anomaly detection using federated XGBoost](https://doi.org/10.1016/j.jfranklin.2023.04.002)." Journal of the Franklin Institute 360, no. 9 (2023): 6194-6210.
+<a href="/images/maverick-shapley-overview.png" target="_blank">
+![Research Overview](/images/maverick-shapley-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
 
-**Yang, Mengwei** and Song, Linqi and Xu, Jie and Li, Congduan and Tan, Guozhen, "[The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated XGBoost](https://arxiv.org/pdf/1907.07157.pdf)", accepted and to appear in IJCAI Workshop: [International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (IJCAI-FL 2019)](https://federated-learning.org/fl-ijcai-2019/).
+[📄 Read Paper](https://arxiv.org/pdf/2405.12590)
+
+## PriPrune: Quantifying and Preserving Privacy in Pruned FL
+*Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
+
+<a href="/images/priprune-overview.png" target="_blank">
+![Research Overview](/images/priprune-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
+
+[📄 Read Paper](https://doi.org/10.1145/3702241)
+
+## Location Leakage in Federated Signal Maps
+*Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
+
+<a href="/images/location-leakage-overview.png" target="_blank">
+![Research Overview](/images/location-leakage-overview.png){: width="600" height="400" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+</a>
+
+[📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw)
+
+For detailed research experience and complete publication list, please visit the [Experience](/experience/experience) and [Publications](/publications/) pages.
 
