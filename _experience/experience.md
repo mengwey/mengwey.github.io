@@ -1,6 +1,6 @@
 ---
-# layout: archive
-# title: "Experience"
+layout: archive
+title: "Experience"
 permalink: /experience/experience
 author_profile: true
 classes: wide
