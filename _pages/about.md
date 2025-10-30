@@ -168,7 +168,7 @@ Research Highlights
 ![Research Overview](/images/duoshapley-overview.png){: width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
 </a>
 
-## Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://arxiv.org/pdf/2405.12590))
+## Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://openreview.net/forum?id=JtybGfTUdq))
 *Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
 
 <a href="/images/maverick-shapley-overview.png" target="_blank">
