@@ -152,13 +152,17 @@ Research Highlights
 * ### ReTalk Agent: Multilingual Video Dubbing
   *AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
   <a href="/images/retalk-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/retalk-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 * ### LLM-Powered Voice Assistant with Voice Cloning
   *Interactive voice assistant leveraging LLMs for natural conversations with personalized synthetic voice.*
   <a href="/images/llm-assistant-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/llm-assistant-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 
@@ -167,22 +171,28 @@ Research Highlights
 * ### Valuing Solo and Synergy in Federated Learning (Under Submission)
   *DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
   <a href="/images/duoshapley-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/duoshapley-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 * ### Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://openreview.net/forum?id=JtybGfTUdq))
-  *Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
+  *Framework that quantifies client contributions when rare or underrepresented classes are present.*
   <a href="/images/maverick-shapley-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/maverick-shapley-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 
 ## 3. Model Pruning (Efficiency & Privacy)
 
 * ### PriPrune: Quantifying and Preserving Privacy in Pruned FL ([📄 Read Paper](https://doi.org/10.1145/3702241))
-  *Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
+  *Privacy-aware pruning algorithm with personalized masks balancing privacy and model performance.*
   <a href="/images/priprune-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/priprune-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 
@@ -191,7 +201,9 @@ Research Highlights
 * ### Location Leakage in Federated Signal Maps ([📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw))
   *Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
   <a href="/images/location-leakage-overview.png" target="_blank">
+  <div style="text-align:center;">
   <img src="/images/location-leakage-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
   </a>
   <hr>
 
