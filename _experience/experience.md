@@ -21,6 +21,7 @@ classes: wide
   * Implemented pairwise secret masking of model parameters to protect against data leakage during aggregation, strengthening client data privacy.
   * Location: Santa Clara, California
 
+<hr>
 
 **Teaching Experience**
 ---------------------
@@ -33,6 +34,7 @@ classes: wide
   * Refined lab materials and grading rubrics with the teaching team; evaluated reports and Proctored exams.
   * Location: Irvine, California
 
+<hr>
 
 **Research Experience**
 ---------------------
