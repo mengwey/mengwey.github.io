@@ -122,7 +122,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 Resume and Curriculum Vitae
----------------------
+======
 
 * [Download Resume](https://drive.google.com/file/d/1hJ_PxMJOuQ9Y9vYljS8wOoilbCTC-kw2/view?usp=sharing) (Google Drive)
 * [Download CV](https://drive.google.com/file/d/1K1XW7Wvvu9hVXOOHt4uHwaJZhFklxLoW/view?usp=sharing) (Google Drive)
@@ -149,65 +149,53 @@ Research Highlights
 
 ## 1. Agentic AI and LLM
 
-### ReTalk Agent: Multilingual Video Dubbing
-*AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
-
-<a href="/images/retalk-overview.png" target="_blank">
-<img src="/images/retalk-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
-
-### LLM-Powered Voice Assistant with Voice Cloning
-*Interactive voice assistant leveraging LLMs for natural conversations with personalized synthetic voice.*
-
-<a href="/images/llm-assistant-overview.png" target="_blank">
-<img src="/images/llm-assistant-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
+> ### ReTalk Agent: Multilingual Video Dubbing
+> *AI agent pipeline that transforms input videos into multilingual versions while preserving speaker identity.*
+> <a href="/images/retalk-overview.png" target="_blank">
+> <img src="/images/retalk-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
+>
+> ### LLM-Powered Voice Assistant with Voice Cloning
+> *Interactive voice assistant leveraging LLMs for natural conversations with personalized synthetic voice.*
+> <a href="/images/llm-assistant-overview.png" target="_blank">
+> <img src="/images/llm-assistant-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
 
 ## 2. Client Valuation and Selection
 
-### Valuing Solo and Synergy in Federated Learning (Under Submission)
-*DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
-
-<a href="/images/duoshapley-overview.png" target="_blank">
-<img src="/images/duoshapley-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
-
-### Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://openreview.net/forum?id=JtybGfTUdq))
-*Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
-
-<a href="/images/maverick-shapley-overview.png" target="_blank">
-<img src="/images/maverick-shapley-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
+> ### Valuing Solo and Synergy in Federated Learning (Under Submission)
+> *DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
+> <a href="/images/duoshapley-overview.png" target="_blank">
+> <img src="/images/duoshapley-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
+>
+> ### Maverick-Aware Shapley Valuation for Client Selection in FL ([📄 Read Paper](https://openreview.net/forum?id=JtybGfTUdq))
+> *Framework quantifying client contributions under data heterogeneity, addressing undervaluation of rare classes.*
+> <a href="/images/maverick-shapley-overview.png" target="_blank">
+> <img src="/images/maverick-shapley-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
 
 ## 3. Model Pruning (Efficiency & Privacy)
 
-### PriPrune: Quantifying and Preserving Privacy in Pruned FL ([📄 Read Paper](https://doi.org/10.1145/3702241))
-*Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
-
-<a href="/images/priprune-overview.png" target="_blank">
-<img src="/images/priprune-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
+> ### PriPrune: Quantifying and Preserving Privacy in Pruned FL ([📄 Read Paper](https://doi.org/10.1145/3702241))
+> *Privacy-aware pruning algorithm with personalized defense masks balancing privacy and model performance.*
+> <a href="/images/priprune-overview.png" target="_blank">
+> <img src="/images/priprune-overview.png" width="400" height="240" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
 
 ## 4. Privacy-Preserving Federated Machine Learning
 
-### Location Leakage in Federated Signal Maps ([📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw))
-*Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
-
-<a href="/images/location-leakage-overview.png" target="_blank">
-<img src="/images/location-leakage-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</a>
-
-<hr>
+> ### Location Leakage in Federated Signal Maps ([📄 Read Paper](https://www.computer.org/csdl/journal/tm/2024/06/10315165/1S2UkRgrKMw))
+> *Analysis of gradient leakage attacks on federated signal mapping with defense strategies.*
+> <a href="/images/location-leakage-overview.png" target="_blank">
+> <img src="/images/location-leakage-overview.png" width="500" height="300" style="cursor: pointer; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+> </a>
+> <hr>
 
 For detailed research experience and complete publication list, please visit the [Experience](/experience/experience) and [Publications](/publications/) pages.
 
