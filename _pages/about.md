@@ -124,7 +124,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 Resume and Curriculum Vitae
 ======
 
-* [Download Resume](https://drive.google.com/file/d/1hJ_PxMJOuQ9Y9vYljS8wOoilbCTC-kw2/view?usp=sharing) (Google Drive)
+* [Download Resume](https://drive.google.com/file/d/15IE32UR6RldWRDKI2YM0ELf5_wjSvPTY/view?usp=share_link) (Google Drive)
 * [Download CV](https://drive.google.com/file/d/1K1XW7Wvvu9hVXOOHt4uHwaJZhFklxLoW/view?usp=sharing) (Google Drive)
 
 <hr>
@@ -166,7 +166,7 @@ Research Highlights
   </div>
   <hr>
 
-## 2. Client Valuation and Selection
+## 2. Explainable AI and Data Valuation
 
 * ### Valuing Solo and Synergy in Federated Learning (Under Submission)
   *DuoShapley framework that efficiently balances individual and collaborative user contributions in FL.*
