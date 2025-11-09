@@ -125,7 +125,7 @@ Resume and Curriculum Vitae
 ======
 
 * [Download Resume](https://drive.google.com/file/d/15IE32UR6RldWRDKI2YM0ELf5_wjSvPTY/view?usp=share_link) (Google Drive)
-* [Download CV](https://drive.google.com/file/d/1K1XW7Wvvu9hVXOOHt4uHwaJZhFklxLoW/view?usp=sharing) (Google Drive)
+* [Download CV](https://drive.google.com/file/d/1w8RPPU_uGYxLe5Vg7PFOOgnfEiASqrmI/view?usp=sharing) (Google Drive)
 
 <hr>
 
