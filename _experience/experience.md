@@ -11,15 +11,13 @@ classes: wide
 
 <div style="margin-bottom: 1.5em;"></div>
 
-* **Syntiant Corp.** — Engineering Intern (2022.7 – 2022.9)
+* **Syntiant Corp.** · Engineering Intern · Irvine, California (2022.7 – 2022.9)
   * Developed a confidence-aware, multi-teacher knowledge distillation framework for keyword spotting tasks, leveraging the student-teacher architecture.
   * Used pre-trained transformer models to enhance student model performance effectively.
-  * Location: Irvine, California
   
-* **Ericsson Inc.** — Data Science Intern (2020.6 – 2021.1)
+* **Ericsson Inc.** · Data Science Intern · Santa Clara, California (2020.6 – 2021.1)
   * Built a secure federated XGBoost framework with an innovative secure quantile sketch and practical secure aggregation.
   * Implemented pairwise secret masking of model parameters to protect against data leakage during aggregation, strengthening client data privacy.
-  * Location: Santa Clara, California
 
 <hr>
 
