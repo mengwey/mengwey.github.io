@@ -14,7 +14,7 @@ redirect_from:
 I am a PhD candidate in the department of [Electrical Engineering](https://engineering.uci.edu/dept/eecs) at the [University of California, Irvine](https://uci.edu), advised by Prof. [Athina Markopoulou](https://athinagroup.eng.uci.edu/athina/). I received my B.E. degree in Electrical Engineering from Northeastern University (China) in 2019, my M.Sc. degree in Electrical Engineering from University of Southern California in 2021. I was a visiting student at City University of Hong Kong in 2018, supervised by Prof. [Linqi Song](https://sites.google.com/site/aisquaredlab/about-us/linqi?authuser=0).
 
 <!-- My research interests are in the areas of agentic AI, privacy-preserving machine learning, federated learning, data valuation and model efficiency. -->
-My research interests are in the areas of trustworthy and explainable AI, privacy-preserving machine learning, federated learning, LLMs, agentic AI.
+My research interests are in the areas of trustworthy and explainable AI, privacy-preserving machine learning, federated learning, LLMs, agentic AI. Currently, I am also a member of the [ProperData center](https://properdata.eng.uci.edu) and the [Eng+Society Institute on AI](https://properai.eng.uci.edu). 
 
 <hr>
 
@@ -125,7 +125,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 Resume and Curriculum Vitae
 ======
 
-* [Download Curriculum Vitae](https://drive.google.com/file/d/1w8RPPU_uGYxLe5Vg7PFOOgnfEiASqrmI/view?usp=sharing)
+* [Download Curriculum Vitae](https://drive.google.com/file/d/1Q3e0w8h_A1bfMaqsJtW5b8av33e3Ene2/view?usp=sharing)
 * [Download Resume](https://drive.google.com/file/d/15IE32UR6RldWRDKI2YM0ELf5_wjSvPTY/view?usp=share_link)
 
 <hr>
