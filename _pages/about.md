@@ -125,7 +125,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 Resume and Curriculum Vitae
 ======
 
-* [Download Curriculum Vitae](https://drive.google.com/file/d/1Q3e0w8h_A1bfMaqsJtW5b8av33e3Ene2/view?usp=sharing)
+* [Download Curriculum Vitae](https://drive.google.com/file/d/18GuqJmTEEXDzj_MN5qWlCLphFAmS2nP8/view?usp=sharing)
 * [Download Resume](https://drive.google.com/file/d/15IE32UR6RldWRDKI2YM0ELf5_wjSvPTY/view?usp=share_link)
 
 <hr>
